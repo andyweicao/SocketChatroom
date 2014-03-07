@@ -1,0 +1,25 @@
+Wei Cao
+
+I design a GUI to show all the outputs and commands.
+
+First, run the Server file and we can see the sentence "The server is running."
+Then, run the Client file and a window comes out.
+      a. Enter IP Address of the Server (Check the IP address.) 
+      b. Choose a username from the Appendix
+      c. Enter the according password from the Appendix.
+
+Server will have a welcome message and we can enter commands in the top text input bar.
+
+You can run Client file again to repeat all the client processes to connect another client to the server. Then clients can see each other.
+
+Appendix 
+Username-password list: 
+Columbia 116bway 
+SEAS summerisover 
+csee4119 lotsofexams 
+foobar passpass 
+windows withglass 
+Google hasglasses 
+facebook wastingtime 
+wikipedia donation 
+network seemsez
